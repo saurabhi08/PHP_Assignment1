@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie List Web App
 
 A PHP and MySQL web application to manage and display a list of movies. Features a modern black theme, responsive design, and CRUD operations (add, edit, delete movies).
@@ -37,3 +38,6 @@ A PHP and MySQL web application to manage and display a list of movies. Features
 
 ## License
 This project is for educational purposes. 
+=======
+# PHP_Assignment1
+>>>>>>> 1ca3065cfdc2e750abcedf4710f5f6452d115ac7
